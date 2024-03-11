@@ -39,5 +39,3 @@ POST_FIELDS = (
     'stickied'
 
 )
-
-print(SECRET)
